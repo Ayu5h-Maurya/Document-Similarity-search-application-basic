@@ -74,7 +74,7 @@ query = 'tell me about Virat kohli'
 ```
 tell me about Virat kohli
 Virat Kohli is an Indian cricketer known for his aggressive batting and leadership.
-similarity score is 0.85
+similarity score is 0.66
 ```
 
 ## 🔧 Configuration
